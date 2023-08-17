@@ -7,7 +7,7 @@ The app will soon come to the App store
 ![App Image](./db_schema.png)
 
 
-*Project Description*
+## Project Description
 
 Dining out is a simple and effective way to socialize, but choosing a restaurant that suits everyone's needs can be a challenge, particularly in groups with various dietary restrictions and preferences. This independent study project aims to streamline the restaurant selection process for groups, making it more efficient and enjoyable.
 
