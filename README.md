@@ -1,7 +1,7 @@
 # Independent Study README
 
-![App Image](image_placeholder.png)
-![App Image](image_placeholder.png)
+![App Image](./app.png)
+![App Image](./db_schema.png)
 
 
 **Project Description**
